@@ -1,0 +1,88 @@
+2025-07-11 15:59:37,122 - BinanceBot - INFO - API Connection Successful | Ping: 761.30ms
+2025-07-11 15:59:37,122 - BinanceBot - INFO - Binance Server Time: 2025-07-11 10:29:36 UTC
+2025-07-11 15:59:37,325 - BinanceBot - ERROR - API Error: 401 - API-key format invalid.
+2025-07-11 15:59:37,325 - BinanceBot - ERROR - Initialization failed: APIError(code=-2014): API-key format invalid.
+2025-07-11 16:13:16,340 - BinanceBot - INFO - API Connection Successful | Ping: 857.14ms
+2025-07-11 16:13:16,340 - BinanceBot - INFO - Binance Server Time: 2025-07-11 10:43:15 UTC
+2025-07-11 16:13:17,021 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-11 16:13:17,324 - BinanceBot - INFO - Available Balance: 14999.95277384 USDT
+2025-07-11 16:13:17,326 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-11 16:13:17,326 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-07-11 16:13:17,868 - BinanceBot - INFO - Order successful: {'orderId': 5250036630, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ5fc698a5b6d103d7742794', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752230597508}
+2025-07-11 16:15:58,794 - BinanceBot - INFO - API Connection Successful | Ping: 731.62ms
+2025-07-11 16:15:58,794 - BinanceBot - INFO - Binance Server Time: 2025-07-11 10:45:58 UTC
+2025-07-11 16:15:59,362 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-11 16:15:59,916 - BinanceBot - INFO - Available Balance: 14999.81879028 USDT
+2025-07-11 16:15:59,916 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-11 16:15:59,916 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.001}
+2025-07-11 16:16:00,146 - BinanceBot - INFO - Order successful: {'orderId': 5250065914, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf14fb2039bfa505585c77e', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752230759782}
+2025-07-11 16:17:36,066 - BinanceBot - INFO - API Connection Successful | Ping: 754.49ms
+2025-07-11 16:17:36,066 - BinanceBot - INFO - Binance Server Time: 2025-07-11 10:47:35 UTC
+2025-07-11 16:17:36,296 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-11 16:17:36,848 - BinanceBot - INFO - Available Balance: 14999.71282232 USDT
+2025-07-11 16:17:36,848 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-11 16:17:36,848 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.005}
+2025-07-11 16:17:37,064 - BinanceBot - INFO - Order successful: {'orderId': 5250085548, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ53de1fcc871d0c9a21ec86', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.005', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752230856701}
+2025-07-11 18:35:33,737 - BinanceBot - INFO - API Connection Successful | Ping: 266.34ms
+2025-07-11 18:35:33,737 - BinanceBot - INFO - Binance Server Time: 2025-07-11 13:05:33 UTC
+2025-07-11 18:35:34,265 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-11 18:35:34,447 - BinanceBot - INFO - Available Balance: 14998.22107704 USDT
+2025-07-11 18:35:34,447 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-11 18:35:34,448 - BinanceBot - INFO - Placing order: {'symbol': 'ETHUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.011}
+2025-07-11 18:35:34,960 - BinanceBot - INFO - Order successful: {'orderId': 4827865201, 'symbol': 'ETHUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJdd5e275768f27257555cd', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.011', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752239134463}
+2025-07-11 18:39:27,657 - BinanceBot - INFO - API Connection Successful | Ping: 602.14ms
+2025-07-11 18:39:27,657 - BinanceBot - INFO - Binance Server Time: 2025-07-11 13:09:27 UTC
+2025-07-11 18:39:28,181 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-11 18:39:28,379 - BinanceBot - INFO - Available Balance: 14998.20792148 USDT
+2025-07-11 18:39:28,379 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-11 18:39:28,379 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.02}
+2025-07-11 18:39:28,572 - BinanceBot - INFO - Order successful: {'orderId': 5251564870, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa56d708b088f550ebcab7', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.020', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752239368058}
+2025-07-11 19:18:04,918 - BinanceBot - INFO - API Connection Successful | Ping: 546.75ms
+2025-07-11 19:18:04,921 - BinanceBot - INFO - Binance Server Time: 2025-07-11 13:48:04 UTC
+2025-07-11 19:18:05,532 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-11 19:18:06,117 - BinanceBot - INFO - Available Balance: 14997.24892645 USDT
+2025-07-11 19:18:06,119 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-11 19:18:06,120 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.02}
+2025-07-11 19:18:06,772 - BinanceBot - INFO - Order successful: {'orderId': 5252090604, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4800788d310536bef7a3e6', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.020', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752241686005}
+2025-07-13 17:16:35,703 - BinanceBot - INFO - API Connection Successful | Ping: 564.31ms
+2025-07-13 17:16:35,703 - BinanceBot - INFO - Binance Server Time: 2025-07-13 11:46:35 UTC
+2025-07-13 17:16:36,192 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-13 17:16:36,357 - BinanceBot - INFO - Available Balance: 14991.02948725 USDT
+2025-07-13 17:16:36,357 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-13 17:16:36,367 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.001, 'type': 'STOP', 'stopPrice': 51000.0, 'price': 50000.0, 'timeInForce': 'GTC'}
+2025-07-13 17:16:36,835 - BinanceBot - ERROR - API Error 400: Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-07-14 13:48:04,458 - BinanceBot - INFO - API Connection Successful | Ping: 301.06ms
+2025-07-14 13:48:04,458 - BinanceBot - INFO - Binance Server Time: 2025-07-14 08:18:04 UTC
+2025-07-14 13:48:04,983 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-14 13:48:05,513 - BinanceBot - INFO - Available Balance: 14991.02948725 USDT
+2025-07-14 13:48:05,514 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-14 13:48:05,514 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.1}
+2025-07-14 13:48:05,781 - BinanceBot - INFO - Order successful: {'orderId': 5292706531, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf33e2a1a5cf9765453528c', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.100', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752481085617}
+2025-07-14 13:52:31,369 - BinanceBot - INFO - API Connection Successful | Ping: 754.46ms
+2025-07-14 13:52:31,369 - BinanceBot - INFO - Binance Server Time: 2025-07-14 08:22:31 UTC
+2025-07-14 13:52:31,914 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-14 13:52:32,438 - BinanceBot - INFO - Available Balance: 14986.29748729 USDT
+2025-07-14 13:52:32,439 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-14 13:52:32,439 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.013, 'price': 120000.0, 'timeInForce': 'GTC'}
+2025-07-14 13:52:32,961 - BinanceBot - INFO - Order successful: {'orderId': 5292762934, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJe0291577e6a62465c8193d', 'price': '120000.00', 'avgPrice': '0.00', 'origQty': '0.013', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752481352832}
+2025-07-14 13:53:58,652 - BinanceBot - INFO - API Connection Successful | Ping: 426.68ms
+2025-07-14 13:53:58,653 - BinanceBot - INFO - Binance Server Time: 2025-07-14 08:23:58 UTC
+2025-07-14 13:53:58,844 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-14 13:53:59,043 - BinanceBot - INFO - Available Balance: 14985.98548729 USDT
+2025-07-14 13:53:59,043 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-14 13:53:59,059 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.04, 'price': 121800.0, 'timeInForce': 'GTC'}
+2025-07-14 13:53:59,567 - BinanceBot - INFO - Order successful: {'orderId': 5292780114, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ3385af251caf19a2dcd45f', 'price': '121800.00', 'avgPrice': '0.00', 'origQty': '0.040', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752481439435}
+2025-07-14 13:55:08,761 - BinanceBot - INFO - API Connection Successful | Ping: 698.75ms
+2025-07-14 13:55:08,761 - BinanceBot - INFO - Binance Server Time: 2025-07-14 08:25:08 UTC
+2025-07-14 13:55:09,279 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-14 13:55:09,817 - BinanceBot - INFO - Available Balance: 14984.12788569 USDT
+2025-07-14 13:55:09,817 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-14 13:55:09,817 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.04, 'price': 121800.0, 'timeInForce': 'GTC'}
+2025-07-14 13:55:10,372 - BinanceBot - INFO - Order successful: {'orderId': 5292792242, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa00db1e0586c36c7418a4b', 'price': '121800.00', 'avgPrice': '0.00', 'origQty': '0.040', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752481510231}
+2025-07-14 13:56:13,628 - BinanceBot - INFO - API Connection Successful | Ping: 457.08ms
+2025-07-14 13:56:13,628 - BinanceBot - INFO - Binance Server Time: 2025-07-14 08:26:13 UTC
+2025-07-14 13:56:14,151 - BinanceBot - INFO - Account Status: CanTrade=True
+2025-07-14 13:56:14,665 - BinanceBot - INFO - Available Balance: 15140.38122410 USDT
+2025-07-14 13:56:14,679 - BinanceBot - INFO - Trading bot initialized successfully
+2025-07-14 13:56:14,680 - BinanceBot - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.113}
+2025-07-14 13:56:15,180 - BinanceBot - INFO - Order successful: {'orderId': 5292805739, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ77dbd4c603c8014190aba2', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.113', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752481575045}
